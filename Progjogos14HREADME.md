@@ -1,11 +1,11 @@
-# Progjogosqua14H
+# Stick Bullets
 
-A game programming course
+The name of the project
 # Hi, I'm Iann!
 
 
-## About Me
-I'm 15 years old, I live in Brasil, and I'm a game developer. I'm doing a game programming course, and right now I'm learning GitHub, I'll talk more about below.
+## what is the objeticve of this project ?
+My objective with this project is learning about godot and about coding games, and specialize in this area.
 
 
 ## My first project
@@ -19,6 +19,8 @@ github and itch.io profiles
 - [@Iann-Reis](https://github.com/Iann-Reis)
 
 - [@rgull1t](https://r-gull1t.itch.io/)
-## OBS :
+## Engines used :
 
-As time goes on, I will add more things to this README file. For now, that's all.
+I used "godot" as a the principal engine to make this game
+I used "pixilart" too for the sprites of the character and the scenary
+OBS : i downloaded some sprites from itch.io
