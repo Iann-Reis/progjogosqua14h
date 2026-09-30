@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "ProgjogosAulas/Git_Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bem-vindo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8ebf915c599b9039",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0534c16c5027f5ab",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Git_Github"
             }
           }
         ]
@@ -115,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ProgjogosAulas/Git_Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ProgjogosAulas/Git_Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ProgjogosAulas/Git_Github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +188,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0534c16c5027f5ab",
+  "active": "b71c4ff7015bde16",
   "lastOpenFiles": [
+    "Projeto/Sem título.md",
+    "ProgjogosAulas/Git_Github.md",
+    "Projeto",
+    "ProgjogosAulas",
     "Bem-vindo.md"
   ]
 }
