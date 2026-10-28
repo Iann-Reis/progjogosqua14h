@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raphael Rodrigues\\Documents\\PCAlunos\\godot\\prog-jogos-qua-14h\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7410EC0F-FB60-45D5-8681-6FCC540B6AB8}|progJogosCsharpQua16h.csproj|c:\\users\\raphael rodrigues\\documents\\pcalunos\\godot\\prog-jogos-qua-14h\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7410EC0F-FB60-45D5-8681-6FCC540B6AB8}|progJogosCsharpQua16h.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7410EC0F-FB60-45D5-8681-6FCC540B6AB8}|progJogosCsharpQua16h.csproj|c:\\users\\raphael rodrigues\\documents\\pcalunos\\godot\\prog-jogos-qua-14h\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7410EC0F-FB60-45D5-8681-6FCC540B6AB8}|progJogosCsharpQua16h.csproj|solutionrelative:scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 349,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\PCAlunos\\godot\\prog-jogos-qua-14h\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\PCAlunos\\godot\\prog-jogos-qua-14h\\scripts\\Player.cs",
+              "RelativeToolTip": "scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:11:49.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Rodrigues\\Documents\\PCAlunos\\godot\\prog-jogos-qua-14h\\scripts\\Camera.cs",
+              "RelativeDocumentMoniker": "scripts\\Camera.cs",
+              "ToolTip": "C:\\Users\\Raphael Rodrigues\\Documents\\PCAlunos\\godot\\prog-jogos-qua-14h\\scripts\\Camera.cs",
+              "RelativeToolTip": "scripts\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T18:01:45.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿using Godot;
+using System;
+
+public partial class Camera : Node2D
+{
+    // Velocidade do nó (pixels/segundo)
+    private Vector2 velocity = Vector2.Zero;
+    // Gravidade (positivo = puxa para baixo)
+    private const float Gravity = 800f;
+
+    public override void _Ready()
+    {
+        GD.Print("Camera pronta");
+    }
+
+    public override void _PhysicsProcess(double deltaDouble)
+    {
+        float delta = (float)deltaDouble;
+
+        // Aplica gravidade
+        velocity.Y += Gravity * delta;
+
+        // Move de acordo com a velocidade
+        GlobalPosition += velocity * delta;
+    }
+}
