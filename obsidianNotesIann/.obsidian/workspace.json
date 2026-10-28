@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgjogosAulas/Git_Github.md",
+                "file": "Projeto/ClockHell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git_Github"
+              "title": "ClockHell"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "b71c4ff7015bde16",
   "lastOpenFiles": [
-    "Projeto/ClockHell.md",
     "ProgjogosAulas/Git_Github.md",
+    "Projeto/ClockHell.md",
     "Projeto",
     "ProgjogosAulas",
     "Bem-vindo.md"

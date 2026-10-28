@@ -15,7 +15,22 @@ public partial class Player : CharacterBody2D
         float directionY = 0.0f;
 
         // Movimentações horizontais e verticais
+        if (Input.IsActionPressed("move_right")) directionX += 3.0f;
+        if (Input.IsActionPressed("move_left")) directionX -= 3.0f;
+        if (Input.IsActionPressed("move_down")) directionY += 3.0f;
+        if (Input.IsActionPressed("move_up")) directionY -= 3.0f;
 
-       
+        Vector2 direction = new Vector2(directionX, directionY);
+
+        if (direction != Vector2.Zero)
+        {
+            direction = direction.Normalized();
+        }
+
+        Velocity = direction * Speed;
+        MoveAndSlide();
+
+
+
     }
 }
